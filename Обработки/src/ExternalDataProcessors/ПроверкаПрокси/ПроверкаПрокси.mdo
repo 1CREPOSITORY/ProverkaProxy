@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f2cfa846-5549-45e9-9c48-3f2f745fd59f">
+  <producedTypes>
+    <objectType typeId="d7b1fd8e-736c-4209-b9f9-011671fe53aa" valueTypeId="c916185a-2a07-46af-81b0-4bd49351400a"/>
+  </producedTypes>
+  <name>ПроверкаПрокси</name>
+  <synonym>
+    <key>ru</key>
+    <value>Проверка прокси</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="d5aa2f27-415e-4b72-ad58-dd146aac9931"/>
+  <defaultForm>ExternalDataProcessor.ПроверкаПрокси.Form.Форма</defaultForm>
+  <forms uuid="cfc92cf1-0cc4-4ed6-a920-f75c856fbc0e">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
